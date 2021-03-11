@@ -1,1 +1,1 @@
-# AspNetCoreIdentityCourse
+# AspNetCoreIdentity
